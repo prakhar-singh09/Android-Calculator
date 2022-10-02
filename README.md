@@ -5,14 +5,14 @@
 </ul>
 </p>
 
-## A sneak peek into what we have here🙈 :
+## ScreenShots
 ### Splash Screen
 <p align="center">
-  <img width="300" height="570" src = "https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/SplashScreen.jpg"></img>
+  <img width="280" height="570" src = "https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/SplashScreen.jpg"></img>
 </p>  
 
 ### Home Screen
-<p align="center"><img width="300" height="570" src="https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/HomeScreen.jpg"></p>
+<p align="center"><img width="280" height="570" src="https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/HomeScreen.jpg"></p>
 
 ### Calculation
-<p align="center"><img width="300" height="570" src="https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/Calculation.jpg"></p>
+<p align="center"><img width="280" height="570" src="https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/Calculation.jpg"></p>
