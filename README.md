@@ -1,18 +1,18 @@
-[Calculator]
-<center><h1 align="center">Technologies Used</h1></center>
-<ul>
-<li>JAVA</li>
-</ul>
+<p align="center"><img src="https://socialify.git.ci/prakhar-singh09/Android-Calculator/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="hoolichat-api" width="640" height="320" /></p>
+<h1 align="center">
+   📱Android Calculator
+</h1>
+
+<p align="center">
+    Android Calculator created with the help of Java and XML. 
 </p>
 
-## ScreenShots
-### Splash Screen
-<p align="center">
-  <img width="280" height="550" src = "https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/SplashScreen.jpg"></img>
-</p>  
 
-### Home Screen
-<p align="center"><img width="280" height="550" src="https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/HomeScreen.jpg"></p>
+# ⚡Technology Stack
 
-### Calculation
+### [Java for operation](https://www.java.com/en/)
+### [XML for layout](https://en.wikipedia.org/wiki/XML)
+### [Gradle as build tool](https://gradle.org/)
+
+# ScreenShot
 <p align="center"><img width="280" height="550" src="https://github.com/prolion1/Calculator-Using-Java-/blob/main/Screenshots/Calculation.jpg"></p>
